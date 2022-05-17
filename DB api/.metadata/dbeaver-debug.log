@@ -1,0 +1,116 @@
+2022-05-16 21:47:55.203 - Create display
+2022-05-16 21:47:55.299 - DBeaver 22.0.4.202205011839 is starting
+2022-05-16 21:47:55.300 - OS: Windows 10 10.0 (amd64)
+2022-05-16 21:47:55.300 - Java version: 11.0.12 by Eclipse Foundation (64bit)
+2022-05-16 21:47:55.301 - Install path: 'C:\Users\docst\AppData\Local\DBeaver'
+2022-05-16 21:47:55.301 - Instance path: 'file:/C:/Users/docst/Documents/Curso Serratec/API/DB api/'
+2022-05-16 21:47:55.301 - Memory available 64Mb/1024Mb
+> Start DBeaver UI Editors - Base [org.jkiss.dbeaver.ui.editors.base 1.0.81.202205011839]
+2022-05-16 21:47:55.325 - Starting RMI server at 59556
+2022-05-16 21:47:55.395 - Run workbench
+> Start Eclipse e4 Workbench SWT [org.eclipse.e4.ui.workbench.swt 0.16.400.v20220222-1128]
+> Start Eclipse Application Services [org.eclipse.e4.core.services 2.3.100.v20210910-0640]
+> Start Serviços de Aplicativo da UI do Eclipse [org.eclipse.e4.ui.services 1.5.0.v20210115-1333]
+> Start EMF XMI [org.eclipse.emf.ecore.xmi 2.16.0.v20190528-0725]
+> Start Eclipse CSS SWT Theme Support [org.eclipse.e4.ui.css.swt.theme 0.13.0.v20201026-1147]
+> Start Eclipse e4 Workbench Add-ons [org.eclipse.e4.ui.workbench.addons.swt 1.4.400.v20211102-0453]
+> Start Eclipse e4 Workbench SWT Renderer [org.eclipse.e4.ui.workbench.renderers.swt 0.15.400.v20220308-0630]
+> Start Eclipse Bindings Support [org.eclipse.e4.ui.bindings 0.13.100.v20210722-1426]
+> Start Eclipse Dependency Injection Extensions [org.eclipse.e4.core.di.extensions 0.17.100.v20210910-0640]
+> Start Suporte ao CSS SWT do Eclipse [org.eclipse.e4.ui.css.swt 0.14.400.v20211026-1534]
+> Start DBeaver UI [org.jkiss.dbeaver.ui 5.1.96.202205011839]
+> Start Java Native Access [com.sun.jna 5.8.0.v20210503-0343]
+2022-05-16 21:47:58.211 - Configure workbench window
+> Start Core do Sistema de Ajuda [org.eclipse.help 3.9.100.v20210721-0601]
+2022-05-16 21:47:58.383 - Create actions
+2022-05-16 21:47:58.398 - Disable Eclipse action set 'org.eclipse.ui.edit.text.actionSet.annotationNavigation'
+2022-05-16 21:47:58.402 - Disable Eclipse action set 'org.eclipse.ui.WorkingSetActionSet'
+2022-05-16 21:47:58.403 - Disable Eclipse action set 'org.eclipse.ui.actionSet.openFiles'
+2022-05-16 21:47:59.046 - Initialize workbench window
+2022-05-16 21:47:59.055 - Finish initialization
+> Start Editor de Texto Padrão [org.eclipse.ui.editors 3.14.300.v20210913-0815]
+> Start Workbench [org.eclipse.ui.workbench.texteditor 3.16.400.v20220218-1619]
+> Start DBeaver UI Editor de dados [org.jkiss.dbeaver.ui.editors.data 1.0.81.202205011839]
+> Start DBeaver SQL Model  [org.jkiss.dbeaver.model.sql 1.0.71.202205011839]
+> Start DBeaver UI Editors - SQL [org.jkiss.dbeaver.ui.editors.sql 1.0.81.202205011839]
+> Start Core de Suporte para Equipe [org.eclipse.team.core 3.9.300.v20220204-0611]
+> Start Núcleo de Suporte a Comparação [org.eclipse.compare.core 3.6.1000.v20201020-1107]
+> Start Autenticação Java Equinox e Serviço de Autorização - Equinox Java Authentication and Authorization Service (JAAS) [org.eclipse.equinox.security 1.3.900.v20220108-1321]
+> Start Internet Connection Management UI [org.eclipse.ui.net 1.4.0.v20210426-0838]
+> Start Gerenciamento da Conexão da Internet [org.eclipse.core.net 1.3.1100.v20210424-0724]
+2022-05-16 21:48:01.572 - Script dialect 'databricks' not found in registry (for data source provider databricks). Use default.
+2022-05-16 21:48:01.611 - Loading user drivers configuration from 'C:\Users\docst\Documents\Curso Serratec\API\DB api\.metadata\.plugins\org.jkiss.dbeaver.core\drivers.xml'
+2022-05-16 21:48:01.658 - Total database drivers: 99 (99)
+> Start DBeaver Sample Database [org.jkiss.dbeaver.ext.sample.database 1.0.118.202205011839]
+> Start DBeaver Tipo do dia  [org.jkiss.dbeaver.ext.ui.tipoftheday 1.0.87.202205011839]
+> Start Draw2d [org.eclipse.draw2dl 3.12.100.20220207122412]
+> Start GEF3 GEF (MVC) [org.eclipse.gef3 3.12.100.20220207122412]
+> Start DBeaver ERD UI [org.jkiss.dbeaver.erd.ui 3.0.41.202205011839]
+> Start DBeaver ERD Model [org.jkiss.dbeaver.erd.model 1.0.41.202205011839]
+> Start Console [org.eclipse.ui.console 3.11.100.v20210721-1355]
+> Start Depurar Core [org.eclipse.debug.core 3.19.0.v20220125-2302]
+2022-05-16 21:48:13.454 - No active connection
+2022-05-16 21:48:17.709 - Connect with 'ressoft_firstapi' (sqlite_jdbc-180cf75d0ef-32ece789e1826a3e)
+> Start DBeaver Generic Plug-in [org.jkiss.dbeaver.ext.generic 2.3.167.202205011839]
+> Start DBeaver SQLite Support  [org.jkiss.dbeaver.ext.sqlite 1.0.130.202205011839]
+2022-05-16 21:48:17.774 - Execution context opened (ressoft_firstapi; Main; 0)
+2022-05-16 21:48:17.991 - Connected (sqlite_jdbc-180cf75d0ef-32ece789e1826a3e, SQLite JDBC [3.36.0.3])
+2022-05-16 21:52:24.182 - Connect with 'DBeaver Sample Database (SQLite)' (dbeaver-sample-database-sqlite-1)
+2022-05-16 21:52:24.183 - Execution context opened (DBeaver Sample Database (SQLite); Main; 1)
+2022-05-16 21:52:24.187 - Connected (dbeaver-sample-database-sqlite-1, SQLite JDBC [3.36.0.3])
+2022-05-16 21:52:36.446 - No active connection
+2022-05-16 22:03:39.245 - No active connection
+> Start DBeaver UI Editores - Conexões [org.jkiss.dbeaver.ui.editors.connection 1.0.72.202205011839]
+> Start DBeaver PostgreSQL Support UI  [org.jkiss.dbeaver.ext.postgresql.ui 1.0.57.202205011839]
+> Start PostgreSQL Suporte DBeaver [org.jkiss.dbeaver.ext.postgresql 2.1.154.202205011839]
+> Start DBeaver SSH tunnels UI [org.jkiss.dbeaver.net.ssh.ui 1.0.102.202205011839]
+> Start DBeaver SSH tunels [org.jkiss.dbeaver.net.ssh 1.0.102.202205011839]
+2022-05-16 22:03:58.127 - Service 'org.jkiss.dbeaver.runtime.ui.UIServiceSecurity' not found
+2022-05-16 22:04:15.212 - Connect with 'jdbc:postgresql://localhost:5432/postgres' (postgres-jdbc-180cf8b4f46-7fa0f83785491b94)
+> Start DBeaver GIS Support [org.jkiss.dbeaver.data.gis 1.0.105.202205011839]
+2022-05-16 22:04:15.277 - Execution context opened (jdbc:postgresql://localhost:5432/postgres; Main <postgres>; 2)
+2022-05-16 22:04:15.278 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2022-05-16 22:04:17.041 - Connected (postgres-jdbc-180cf8b4f46-7fa0f83785491b94, PostgreSQL JDBC Driver [42.2.25])
+2022-05-16 22:04:17.100 - Execution context closed (jdbc:postgresql://localhost:5432/postgres, 2)
+2022-05-16 22:04:17.100 - Disconnected (postgres-jdbc-180cf8b4f46-7fa0f83785491b94)
+2022-05-16 22:04:27.935 - Execution context closed (ressoft_firstapi, 0)
+2022-05-16 22:04:27.936 - Disconnected (sqlite_jdbc-180cf75d0ef-32ece789e1826a3e)
+2022-05-16 22:04:37.361 - Connect with 'postgres' (postgres-jdbc-180cf8b0a25-2830ebb61d1f569b)
+2022-05-16 22:04:37.363 - Execution context opened (postgres; Main <postgres>; 3)
+2022-05-16 22:04:37.363 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2022-05-16 22:04:37.758 - Execution context opened (postgres; Metadata <postgres>; 4)
+2022-05-16 22:04:37.759 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2022-05-16 22:04:37.949 - Connected (postgres-jdbc-180cf8b0a25-2830ebb61d1f569b, PostgreSQL JDBC Driver [42.2.25])
+2022-05-16 22:06:04.792 - Execution context opened (postgres; Main <ressoft_firstapi>; 5)
+2022-05-16 22:06:04.792 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Main <ressoft_firstapi>
+2022-05-16 22:06:04.928 - Execution context opened (postgres; Metadata <ressoft_firstapi>; 6)
+2022-05-16 22:06:04.928 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Metadata <ressoft_firstapi>
+2022-05-16 22:06:23.634 - Execution context closed (postgres, 3)
+2022-05-16 22:06:23.634 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2022-05-16 22:06:23.787 - Execution context closed (postgres, 4)
+2022-05-16 22:06:23.787 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2022-05-16 22:06:23.925 - Execution context closed (postgres, 5)
+2022-05-16 22:06:23.925 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Main <ressoft_firstapi>
+2022-05-16 22:06:24.065 - Execution context closed (postgres, 6)
+2022-05-16 22:06:24.066 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Metadata <ressoft_firstapi>
+2022-05-16 22:06:24.214 - Connections reopened: 4 (of 4)
+> Start DBeaver Tasks View [org.jkiss.dbeaver.tasks.ui.view 1.0.30.202205011839]
+> Start DBeaver Tasks - General UI [org.jkiss.dbeaver.tasks.ui 1.0.59.202205011839]
+2022-05-16 22:06:39.712 - Execution context opened (postgres; SQLEditor <Script-1.sql>; 7)
+2022-05-16 22:06:39.713 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for SQLEditor <Script-1.sql>
+2022-05-16 22:07:24.714 - Execution context closed (postgres, 3)
+2022-05-16 22:07:24.715 - Initiate connection to PostgreSQL database [postgres@localhost] for Main <postgres>
+2022-05-16 22:07:24.852 - Execution context closed (postgres, 4)
+2022-05-16 22:07:24.852 - Initiate connection to PostgreSQL database [postgres@localhost] for Metadata <postgres>
+2022-05-16 22:07:24.991 - Execution context closed (postgres, 5)
+2022-05-16 22:07:24.991 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Main <ressoft_firstapi>
+2022-05-16 22:07:25.129 - Execution context closed (postgres, 6)
+2022-05-16 22:07:25.129 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for Metadata <ressoft_firstapi>
+2022-05-16 22:07:25.281 - Execution context closed (postgres, 7)
+2022-05-16 22:07:25.282 - Initiate connection to PostgreSQL database [ressoft_firstapi@localhost] for SQLEditor <Script-1.sql>
+2022-05-16 22:07:25.361 - Connections reopened: 5 (of 5)
+2022-05-16 22:24:56.841 - Execution context closed (postgres, 7)
+2022-05-16 22:24:57.337 - DBeaver is stopping
+2022-05-16 22:24:57.342 - Stop RMI server
+2022-05-16 22:24:57.346 - RMI controller has been stopped
+2022-05-16 22:24:57.364 - DBeaver shutdown completed

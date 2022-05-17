@@ -1,0 +1,5 @@
+CREATE TABLE editora (
+	editora_id serial NOT NULL,
+	editora_nome varchar(255) NULL,
+	PRIMARY KEY (editora_id)
+);
